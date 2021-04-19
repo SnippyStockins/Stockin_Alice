@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MX_Alps_Hybrid)(type Legacy)(uri "C:/Users/Luciano/Desktop/Keeb Design/Projects/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name Stockin_Alps_Rescue)(type Legacy)(uri "C:/Users/Luciano/Desktop/Keeb Design/Projects/Alice/Stockin_Alps/Stockin_Alps-rescue.lib")(options "")(descr ""))
+  (lib (name Stockin_Alps-rescue)(type Legacy)(uri ${KIPRJMOD}/Stockin_Alps-rescue.lib)(options "")(descr ""))
+  (lib (name Stockin_Alps)(type Legacy)(uri ${KIPRJMOD}/Stockin_Alps.lib)(options "")(descr ""))
+)
